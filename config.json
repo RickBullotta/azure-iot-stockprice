@@ -1,0 +1,13 @@
+{
+  "interval": 60000,
+  "apiKey" : "1E6AQCMBK9ZFBHAR",
+  "credentialPath": "~/.iot-hub",
+  "infoConfigurationSync" : false,
+  "debugConfigurationSync" : false,
+  "infoMethods" : true,
+  "debugMethods" : false,
+  "infoOutboundMessages" : false,
+  "debugOutboundMessages" : false,
+  "infoInboundMessages" : false,
+  "debugInboundMessages" : false
+}
