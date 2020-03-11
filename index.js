@@ -103,7 +103,7 @@ function getPriceForTicker(ticker,callback) {
 							callback(null, price, volume);
 						}
 						catch(eParse) {
-							callback(eParse, null, nul);
+							callback(eParse, null, null);
 						}
 					}
 				}
